@@ -1,0 +1,6 @@
+{
+  "name": "FreshCart - Online Grocery Shopping Platform",
+  "description": "A modern, full-stack grocery e-commerce web application featuring fresh products, smart cart, express checkout, order tracking, and comprehensive admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
